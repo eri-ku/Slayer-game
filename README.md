@@ -1,4 +1,4 @@
-<h1>Slayer</hi><hr>
+<h1>Slayer</h1><hr>
 This project is a Roguelike RPG Adventure game, which I have named Slayer.
 The player is placed in the path of an enemy or other interactive object. The player's perspective is first person.
 The player interacts with the environment by clicking the left mouse button on the corresponding interactive object. At the beginning of each scene, the game waits for the player to click on the enemy. 
