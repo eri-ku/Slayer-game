@@ -11,3 +11,9 @@ After each attack or heal, the current energy is increased by one, up to the max
 For defeating an enemy, the player receives a reward, representing the game currency called money. The player can use this money to upgrade his attributes.
 The end of the game is set after the last enemy is defeated or after the player reaches zero health.
 The player wins the game if he defeats the last enemy in the game.
+
+<br></br>
+
+[Screenshot1](docs/images/Screenshot1.jpg)
+<br></br>
+[Screenshot2](docs/images/Screenshot2.jpg)
