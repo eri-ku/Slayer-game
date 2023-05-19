@@ -14,6 +14,8 @@ The player wins the game if he defeats the last enemy in the game.
 
 <br></br>
 
-[Screenshot1](docs/images/Screenshot1.jpg)
+
+![Screenshot1](docs/images/Screenshot1.jpg)
+
 <br></br>
-[Screenshot2](docs/images/Screenshot2.jpg)
+![Screenshot2](docs/images/Screenshot2.jpg)
